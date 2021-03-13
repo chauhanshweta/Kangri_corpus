@@ -12,9 +12,14 @@ Kr_3 represnt the Kavitaiyein, Lok-Geet and kangri Gazals written by various kan
 Kr_4 represnt the Parallel Hindi-Kangri dataset that has been created by distributing different everyday topics to kangri writers.
       Some of the categories are as follows: Hospital, Defense, Media, School, Music, Sports, Dance, Food, Parties, Law, Market, Marriage, Culture,
         History, Education, Technology, Religion, Stories.
+        
+Kr_4 is categrized Kr_4_Hindi and Kr_4_kangri
+
 
 #### test dataset:
-Kr_1
-Kr_4
 
+Kr_1 conatin 1000 kangri test dataset 
 
+Kr_4_Hindi contain 500 parallel hindi dataset.
+
+Kr_4_Kangri contain 500 parallel Kangri dataset.
