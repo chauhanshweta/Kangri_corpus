@@ -49,7 +49,6 @@ We thank Dr. Karam Singh, Director of *Himachal Academy of Arts Culture and Lang
 
 # _Contributors_
 Shweta Chauhan </br>
-Shefali Saxena </br>
 Philemon Daniel </br>
 
 # _Contacts_
